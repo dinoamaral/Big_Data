@@ -12,17 +12,3 @@ In the link below, there is a simple introduction about Apache Kafka. It is nece
 
 ### The first steps with Apache kafka :
 * http://kafka.apache.org/quickstart 
-
-### A Kafka Producer
-* In the following link, there is a simple code for a Kafka Producer :
- https://github.com/dinoamaral/Scala/blob/master/Kafka
-
-* For a deeper details about Kafka Producer API, see the link bellow :
-https://kafka.apache.org/0100/javadoc/index.html?org/apache/kafka/clients/producer/KafkaProducer.html
-
-### A Kafka Consumer
-* In the following link, there is a simple code for a Kafka Producer :
- https://github.com/dinoamaral/Scala/blob/master/Kafka
-
-* For a deeper details about Kafka Producer API, see the link bellow :
-https://kafka.apache.org/0100/javadoc/index.html?org/apache/kafka/clients/consumer/KafkaConsumer.html
