@@ -1,0 +1,23 @@
+products:
+   src/main/scala/configProducer.scala -> build/classes/scala/main/Log$.class
+   src/main/scala/configProducer.scala -> build/classes/scala/main/Log.class
+   src/main/scala/configProducer.scala -> build/classes/scala/main/configProducer.class
+   src/main/scala/kafkaProducer.scala -> build/classes/scala/main/kafkaProducer$.class
+   src/main/scala/kafkaProducer.scala -> build/classes/scala/main/kafkaProducer.class
+binary dependencies:
+   src/main/scala/configProducer.scala -> /home/dino/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.17/5af35056b4d257e4b64b9e8069c0746e8b08629f/log4j-1.2.17.jar
+   src/main/scala/configProducer.scala -> /home/dino/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.4/7663f74ef944453c86cc7e6597ed33e9281f6412/scala-library-2.12.4.jar
+   src/main/scala/configProducer.scala -> /usr/lib/jvm/java-1.8.0-amazon-corretto/jre/lib/rt.jar
+   src/main/scala/kafkaProducer.scala -> /home/dino/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.17/5af35056b4d257e4b64b9e8069c0746e8b08629f/log4j-1.2.17.jar
+   src/main/scala/kafkaProducer.scala -> /home/dino/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/1.0.1/eba862d2316ef36e599dee6ebc956981f95c7ea2/kafka-clients-1.0.1.jar
+   src/main/scala/kafkaProducer.scala -> /home/dino/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.4/7663f74ef944453c86cc7e6597ed33e9281f6412/scala-library-2.12.4.jar
+   src/main/scala/kafkaProducer.scala -> /usr/lib/jvm/java-1.8.0-amazon-corretto/jre/lib/rt.jar
+source dependencies:
+   src/main/scala/kafkaProducer.scala -> src/main/scala/configProducer.scala
+external dependencies:
+class names:
+   src/main/scala/configProducer.scala -> Log
+   src/main/scala/configProducer.scala -> Log$
+   src/main/scala/configProducer.scala -> configProducer
+   src/main/scala/kafkaProducer.scala -> kafkaProducer
+   src/main/scala/kafkaProducer.scala -> kafkaProducer$
