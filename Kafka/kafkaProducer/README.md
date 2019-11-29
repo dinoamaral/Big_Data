@@ -1,5 +1,6 @@
 ## A Kafka Producer
-* Usage: java -jar kafkaProducer.jar "topic" "file path to be sent"
+# Usage: 
+* java -jar kafkaProducer.jar <topic> <file path to be sent>
 
 * Change the file 
 
