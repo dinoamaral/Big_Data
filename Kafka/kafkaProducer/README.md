@@ -7,5 +7,9 @@
 
 * Change the variable bootstrap.servers (kafka brokers) in the producer.propeties files to adequate to your infrastructure.
 
+* A high level overview about how a Kafka Producer works :
+
+### https://docs.confluent.io/current/clients/producer.html
+
 * For a deeper details about Kafka Producer API, see the link bellow :
 ### https://kafka.apache.org/10/javadoc/org/apache/kafka/clients/producer/KafkaProducer.html
