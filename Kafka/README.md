@@ -1,4 +1,8 @@
 ## Here follows some useful links to start learning Kafka :
+
+### Paper:"Kafka: a Dsitributed Messaging System for Log Propcessing"
+* https://cs.uwaterloo.ca/~ssalihog/courses/papers/netdb11-final12.pdf
+
 ### The Log: What every software engineer should know about real-time data's unifying abstraction
 In the link bellow, Jay Kreps explains in a philosophical approach why he and his team built Apache Kafka at LinkedIn:
 * https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
